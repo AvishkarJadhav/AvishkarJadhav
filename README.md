@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android Java Selenium**
 
-- 📫 How to reach me **avishkar9561@gmail.com**
+- 📫 How to reach me **avishkarjadhav2802@gmail.com**
 
 <p align="left">
 </p>
