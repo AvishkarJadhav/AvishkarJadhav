@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkarjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="avishkarjadhav" /> </p>
 
-- 🔭 I’m currently working on **TM Xplora**
+- 🔭 I’m currently working on **Environmental Intellect**
 
-- 🌱 I’m currently learning **Python-Django HTML CSS3 JS**
+- 🌱 I’m currently learning **Playright Java HTML CSS3 JS**
 
 - 💬 Ask me about **Android Java Selenium**
 
-- 📫 How to reach me **avishkarjadhav2802@gmail.com**
+- 📫 How to reach me **avishkar.jadhav@wdimails.com**
 
 <p align="left">
 </p>
